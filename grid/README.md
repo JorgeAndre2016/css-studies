@@ -12,12 +12,12 @@
 
 - Grid: Duas dimensões (coluna e linhas)
 - Flexbox: Uma dimensão (ou coluna ou linha)
-- Um complementa o trabalho do :out-of-range
+- Um complementa o trabalho do outro
 - Verificar quais navegadores ainda não estão aceitando o Grid
 
 ## PROPRIEDADES
 
-Vamos separa em 2 grupos::after
+Vamos separa em 2 grupos:
 container e item(s)
 
 ### CONTAINER
@@ -30,7 +30,7 @@ container e item(s)
  - grid-column-gap
 - grid-template-areas
 
-... e mais 4 propriedades e  **alinhamento**
+... e mais 4 propriedades e **alinhamento**
 
 ### ITEM(S)
 
