@@ -1,7 +1,5 @@
 # CSS GRID
 
-[Desvendando o CSS Grid na prática | Mayk Brito](https://www.youtube.com/watch?v=HN1UjzRSdBk)
-
 ## GRID
 
 - Bidimensional
