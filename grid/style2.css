@@ -27,10 +27,21 @@ html, body {
 /* Uso dos alinhamentos do items
     justify-items: center;
     align-items: end;*/;
+
 }
 
 .container > div {
     background: #7159c1;
     width: 50px;
     height: 50px;
+
+/* Uso dos alinhamentos do self */
+    justify-self: end;
+    align-self: end;
+}
+
+.center {
+/* Uso dos alinhamentos do self */
+    justify-self: center !important;
+    align-self: center !important;
 }
